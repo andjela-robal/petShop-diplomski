@@ -85,6 +85,10 @@ Ovaj projekat predstavlja dinamičku web prodavnicu za hranu i opremu za kućne 
 - Email: `test@gmail.com`
 - Password: `87654321`
 
+## Napomena
+
+Slike i informacije o proizvodima korišćene u ovom projektu preuzete su sa interneta i služe **isključivo za demonstraciju korisničkog interfejsa**. Projekat se ne koristi u komercijalne svrhe.
+
 # Slike sajta
 ![Login](screenshots/login.png)
 ![Register](screenshots/register.png)
